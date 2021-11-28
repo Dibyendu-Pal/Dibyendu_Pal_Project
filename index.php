@@ -1,5 +1,5 @@
 <?php
 
-include_once("Dibyendu Pal ( TCS ) 1");
+include_once("Dibyendu Pal ( TCS ) 1.html");
 
 ?>
