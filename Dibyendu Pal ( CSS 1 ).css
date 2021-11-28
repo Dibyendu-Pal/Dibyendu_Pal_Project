@@ -1,0 +1,19 @@
+*{
+    text-align: center;
+}
+body{
+    background-color: darkorchid;
+}
+
+h2{
+    background-color: chartreuse;
+}
+
+#selectName{
+    size: 20px;
+    padding: 30px;
+}
+
+select{
+    padding: 2px 5px;
+}

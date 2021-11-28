@@ -1,0 +1,30 @@
+*{
+    text-align: center;
+}
+
+html{
+    background: linear-gradient( to bottom right, rgb(182, 228, 16), rgb(93, 122, 219));
+    background-repeat: no-repeat ;
+    height: 100%;
+    width: 100%;
+}
+
+
+#div-name-work{
+    size: 50px;
+}
+
+b{
+    font-size: 22px;
+}
+
+#for-box{
+    border: 2px solid black;
+}
+form{
+    padding: 40px;
+}
+
+.files{
+    padding: 30px;
+}
